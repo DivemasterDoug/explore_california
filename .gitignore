@@ -1,2 +1,8 @@
+# these files are ignored by git
 tempfile.txt
+*.log
+.DS_Store
+*.zip
+log/*.log
+log/*.log.[0-9]
 
